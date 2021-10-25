@@ -1,5 +1,13 @@
-### Hi there, I'm Christian 👋
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FC_Schoenefeld)
+### <p align="center">Hi there, I'm Christian 👋</p>
+<p align="center">
+  <a href="https://twitter.com/C_Schoenefeld">
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FC_Schoenefeld">
+  </a>
+</p>
+ 
+<p align="center">Web developer</p>
+
+<p align="center">Projects, web development, TYPO3, Liferay, Laravel, Vue.js ...</p>
 <!--
 **christian-schoenefeld/christian-schoenefeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
