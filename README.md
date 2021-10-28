@@ -25,13 +25,13 @@
 ### <p align="center">My projects 💻</p>
 
 <p align="center">
-  <img width="400" src="" />
-  <img width="400" src="" />
-  <a href="">
+  <img width="400" src="https://github.com/christian-schoenefeld/christian-schoenefeld/blob/main/database.png" />
+  <img width="400" src="https://github.com/christian-schoenefeld/christian-schoenefeld/blob/main/readme.jpg" />
+  <a href="https://github.com/christian-schoenefeld/seeds-from-sql">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=christian-schoenefeld&repo=seeds-from-sql" />
   </a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
-    <img align="" src="" />
+  <a href="https://github.com/christian-schoenefeld/christian-schoenefeld">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=christian-schoenefeld&repo=christian-schoenefeld" />
   </a>
 </p>
 
