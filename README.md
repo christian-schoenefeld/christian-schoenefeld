@@ -28,7 +28,7 @@
   <img width="400" src="" />
   <img width="400" src="" />
   <a href="">
-    <img align="" src="" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=christian-schoenefeld&repo=seeds-from-sql" />
   </a>
   <a href="https://github.com/YuriDevAT/smart-shopping-list">
     <img align="" src="" />
